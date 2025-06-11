@@ -1,0 +1,846 @@
+
+{
+  "sonhador": {
+    "nome": "Sonhador",
+    "livros": [
+      { "imagem": "https://m.media-amazon.com/images/I/51WdTo-eeEL._SY445_SX342_PQ80_.jpg" ,
+    "descricao": "Elsie Hannaway é uma física teórica que leva uma vida dupla: professora mal remunerada de dia e namorada de mentira nas horas vagas. Tudo vai bem até que Jack Smith, irmão de um de seus clientes e renomado físico experimental surge.",
+    "titulo": "Amor, Teoricamente",
+    "autor": "Ali Hazelwood",
+    "genero": "romance/comédia romântica",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Amor-teoricamente-Ali-Hazelwood/dp/6555655259"},
+    
+    {
+  "imagem": "https://m.media-amazon.com/images/I/51J4ZaKJZDL._SY445_SX342_PQ80_.jpg",
+  "descricao": "Evie Sage consegue um emprego como assistente do lendário Vilão do reino. Entre tarefas inusitadas e segredos obscuros, ela descobre que trabalhar para o mal pode ser mais fascinante — e perigoso — do que imaginava.",
+  "titulo": "Assistente do Vilão",
+  "autor": "Hannah Nicole Maehrer",
+  "genero": "romance/fantasia",
+  "outraImagem": "./imgbooks/Amazon.png",
+  "link": "https://www.amazon.com.br/Assistente-Sucesso-TikTok-Hannah-Maehrer/dp/6585348249"
+},
+     {
+  "imagem": "https://m.media-amazon.com/images/I/81HB-DJUVHL._SY342_.jpg",
+  "descricao": "Scarlett Dragna sempre sonhou em participar do Caraval, um espetáculo mágico e misterioso. Quando finalmente recebe o convite, ela se vê envolvida em um jogo perigoso onde nada é o que parece, e sua irmã Donatella desaparece.",
+  "titulo": "Caraval",
+  "autor": "Stephanie Garber",
+    "genero": "fantasia/jovens adultos",
+  "outraImagem": "./imgbooks/Amazon.png",
+  "link": "https://www.amazon.com.br/Caraval-Trilogia-vol-tradu%C3%A7%C3%A3o-edi%C3%A7%C3%A3o/dp/8582356684"
+},
+      {
+  "imagem": "https://m.media-amazon.com/images/I/51wvzrEiG-L._SY445_SX342_PQ80_.jpg",
+  "descricao": "Feyre, uma jovem caçadora, mata um lobo na floresta e é levada para uma terra mágica como punição. Lá, descobre que seu captor é Tamlin, um Grão-Senhor feérico.",
+  "titulo": "Corte de Espinhos e Rosas",
+  "autor": "Sarah J. Maas",
+    "genero": "fantasia/romance",
+  "outraImagem": "./imgbooks/Amazon.png",
+  "link": "https://www.amazon.com.br/Corte-espinhos-rosas-Vol-1/dp/8501105872"
+},
+      {
+  "imagem": "https://m.media-amazon.com/images/I/31NzhGnNLsL._SY445_SX342_PQ80_.jpg",
+  "descricao": "Isabella Swan se muda para Forks e conhece Edward Cullen, um misterioso colega de escola que guarda um segredo: ele é um vampiro. Apesar do perigo, os dois se apaixonam.",
+  "titulo": "Crepúsculo",
+  "autor": "Stephenie Meyer",
+    "genero": "fantasia/romance",
+  "outraImagem": "./imgbooks/Amazon.png",
+  "link": "https://www.amazon.com.br/Crep%C3%BAsculo-Stephenie-Meyer/dp/8551001996"
+},
+     {
+  "imagem": "https://m.media-amazon.com/images/I/51zH8sO2fcL._SY445_SX342_PQ80_.jpg",
+  "descricao": "Uma narrativa envolvente sobre a ascensão e queda de uma banda de rock dos anos 70, contada por meio de entrevistas que revelam os bastidores da fama, amor e música.",
+  "titulo": "Daisy Jones and The Six",
+  "autor": "Taylor Jenkins Reid",
+    "genero": "ficção histórica/ficção musical",
+  "outraImagem": "./imgbooks/Amazon.png",
+  "link": "https://www.amazon.com.br/Daisy-Jones-Six-hist%C3%B3ria-m%C3%BAsica/dp/8584391401"
+},
+      {
+  "imagem": "https://m.media-amazon.com/images/I/41-xfOLzXBL._SY445_SX342_PQ80_.jpg",
+  "descricao": "Um romance emocionante que retrata a paixão e os segredos escondidos durante um verão inesquecível.",
+  "titulo": "Depois Daquele Verão",
+  "autor": "Carley Fortune",
+    "genero": "romance",
+  "outraImagem": "./imgbooks/Amazon.png",
+  "link": "https://www.amazon.com.br/Depois-daquele-ver%C3%A3o-Abbi-Glines/dp/8543104843"
+},
+
+    {
+    "imagem": "https://m.media-amazon.com/images/I/51YeX6Y1GgL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Em um mundo onde deuses estão em guerra, dois jornalistas rivais se conectam por cartas anônimas, dando início a uma história épica de amor e magia.",
+    "titulo": "Divinos Rivais",
+    "autor": "Rebecca Ross",
+    "genero": "Fantasia Romântica",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Divinos-rivais-Sucesso-TikTok-Rebecca/dp/6585348168"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/413TLPA-GXL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Kell é um dos últimos Viajantes - magos com uma habilidade rara e cobiçada de viajar entre universos paralelos conectados por uma cidade mágica...",
+    "titulo": "Um tom mais escuro de magia",
+    "autor": "V.E. Schwab",
+    "genero": "Fantasia",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/mais-escuro-magia-Vol-tons/dp/8501106666"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51bwPuleyeL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Um grupo de jovens em busca de um rei antigo, misturando mistério, amizade e magia sombria.",
+    "titulo": "Os Garotos Corvos",
+    "autor": "Maggie Stiefvater",
+    "genero": "Fantasia Sobrenatural",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/garotos-corvos-Vol-saga-dos/dp/8576862549"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51U67PGk+KL._SY342_.jpg",
+    "descricao": "A história do jovem bruxo Harry Potter e suas aventuras na escola de magia de Hogwarts.",
+    "titulo": "Harry Potter e a Pedra Filosofal",
+    "autor": "J.K. Rowling",
+    "genero": "Fantasia",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Harry-Potter-Pedra-Filosofal-Rowling/dp/8532530788"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51tHMjZsH2L._SY445_SX342_PQ80_.jpg",
+    "descricao": "Uma história emocionante sobre uma jovem estudante de medicina que encontra o amor em meio a desafios e segredos.",
+    "titulo": "A Hipótese do Amor",
+    "autor": "Ali Hazelwood",
+    "genero": "Romance Contemporâneo",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/hip%C3%B3tese-amor-Sucesso-TikTok/dp/6555653302"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41pbZcXFYkL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Em um futuro distópico, Katniss Everdeen luta pela sobrevivência e contra a opressão do Capitólio em uma competição brutal.",
+    "titulo": "Jogos Vorazes",
+    "autor": "Suzanne Collins",
+    "genero": "Distopia",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Jogos-Vorazes-1-Suzanne-Collins/dp/8579800242"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51MW2DUs-3L._SY445_SX342_PQ80_.jpg",
+    "descricao": "Em um mundo moderno repleto de magia e mistério, Bryce Quinlan luta para desvendar um assassinato enquanto enfrenta segredos pessoais profundos.",
+    "titulo": "Crescent City: Casa de Terra e Sangue",
+    "autor": "Sarah J. Maas",
+    "genero": "Fantasia Urbana",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Cidade-Lua-Crescente-sangue-Revista/dp/6555871709"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51Qug2ePBoL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Layken precisa cuidar da família após a morte do pai. Ao conhecer Will, um vizinho que compartilha da mesma dor, nasce um amor intenso e poético.",
+    "titulo": "Métrica",
+    "autor": "Colleen Hoover",
+    "genero": "Romance Jovem Adulto",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/M%C3%A9trica-Slammed-vol-Colleen-Hoover-ebook/dp/B00DQSZ97W"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51yAaQQZ3qL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Uma aliança política entre vampiros e lobisomens leva Misery e Lowe a um casamento forçado que desperta sentimentos intensos.",
+    "titulo": "Noiva",
+    "autor": "Ali Hazelwood",
+    "genero": "Romance Paranormal",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Noiva-Ali-Hazelwood/dp/6555656034"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51BSHmTVwsS._SY445_SX342_PQ80_.jpg",
+    "descricao": "Jude foi levada para o Reino das Fadas após o assassinato de seus pais. Desejando poder, ela se envolve em intrigas e jogos políticos com os feéricos.",
+    "titulo": "Príncipe Cruel",
+    "autor": "Holly Black",
+    "genero": "Fantasia Jovem Adulto",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/pr%C3%ADncipe-cruel-Vol-Povo-Ar/dp/850111555X"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51zdH71wc4L._SY445_SX342_PQ80_.jpg",
+    "descricao": "Violet Sorrengail precisa sobreviver à brutal academia de cavaleiros de dragões onde a formação é uma batalha de vida ou morte.",
+    "titulo": "Quarta Asa",
+    "autor": "Rebecca Yarros",
+    "genero": "Fantasia Romântica",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Quarta-asa-Rebecca-Yarros/dp/8542225856"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51HS0iOFxvL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Poppy é a Donzela, escolhida pelos deuses. Mas quando Hawke entra em sua vida, tudo que ela acreditava começa a ruir.",
+    "titulo": "De Sangue e Cinzas",
+    "autor": "Jennifer L. Armentrout",
+    "genero": "Fantasia Romântica",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/sangue-cinzas-Vol-1/dp/655981002X"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41MHq2yKliL._SY445_SX342_PQ80_.jpg",
+    "descricao": "A acorda todo dia em um corpo diferente. Tudo corre bem até que conhece Rhiannon e decide romper suas próprias regras para estar com ela.",
+    "titulo": "Todo Dia",
+    "autor": "David Levithan",
+    "genero": "Ficção Contemporânea / Romance",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Todo-dia-David-Levithan/dp/8501099511"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41mkx1CkapL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Celaena, uma assassina lendária, é convocada para lutar por sua liberdade em uma competição mortal no reino de Adarlan.",
+    "titulo": "Trono de Vidro",
+    "autor": "Sarah J. Maas",
+    "genero": "Fantasia",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Trono-vidro-Vol-Sarah-Maas/dp/8501401382"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/81uPjcGCWlL._SY385_.jpg",
+    "descricao": "Ao acordar em um lugar escuro, frio e desolado rodeada por outros corpos e sem ideia de como foi parar ali, Celina logo se dá conta de que algo terrível aconteceu.",
+    "titulo": "O abismo de Celina",
+    "autor": "Ariani Castelo",
+    "genero": "Fantasia Romântica",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/abismo-Celina-Ariani-Castelo/dp/6586733375"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41vuuhPjTeL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Descubra as origens do romance entre a rainha do Refúgio das Fadas e o senhor do Bosque do Inverno.",
+    "titulo": "Asas reluzentes",
+    "autor": "Allison Saft",
+    "genero": "Fantasia Romântica",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Asas-reluzentes-Edi%C3%A7%C3%A3o-com-brinde/dp/6556097454"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51EL3oIGqcL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Kai é um príncipe poderoso, treinado para matar. Paedyn é uma garota comum que sobrevive fingindo ter poderes.",
+    "titulo": "Powerless",
+    "autor": "Lauren Roberts",
+    "genero": "Fantasia Romântica",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Powerless-1-Lauren-Roberts/dp/6555324511"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/91tgztS06QL._SY385_.jpg",
+    "descricao": "Criada na loja de antiguidades de seu querido pai, cercada por lendas de seres poderosos e imortais, Evangeline Fox cresceu acreditando em histórias de amores verdadeiros e em finais felizes. ",
+    "titulo": "Era uma vez um coração partido",
+    "autor": "Stephanie Garber",
+    "genero": "Fantasia Romântica",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Era-cora%C3%A7%C3%A3o-partido-Sucesso-TikTok/dp/858235648X"
+  }, {
+    "imagem": "https://m.media-amazon.com/images/I/91tgztS06QL._SY385_.jpg",
+    "descricao": "Criada na loja de antiguidades de seu querido pai, cercada por lendas de seres poderosos e imortais, Evangeline Fox cresceu acreditando em histórias de amores verdadeiros e em finais felizes. ",
+    "titulo": "Era uma vez um coração partido",
+    "autor": "Stephanie Garber",
+    "genero": "Fantasia Romântica",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Era-cora%C3%A7%C3%A3o-partido-Sucesso-TikTok/dp/858235648X"
+  },
+   {
+    "imagem": "https://m.media-amazon.com/images/I/51BonPvzwGL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Oraya é a filha adotiva do rei dos vampiros Nascidos da Noite. Humana em meio a predadores naturais, ela passou a vida lutando em um mundo que desafia sua existência.",
+    "titulo": "A serpente e as asas feitas de noite",
+    "autor": "Carissa Broadbent",
+    "genero": "Fantasia e Sobrenatural",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/serpente-asas-feitas-noite-duologia-ebook/dp/B0CQ3W6TS9"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/71t558uD09L._SY385_.jpg",
+    "descricao": "Com apenas um toque, Juliette Ferrars é capaz de fazer um homem adulto se ajoelhar de dor e implorar por misericórdia.",
+    "titulo": "Estilhaça-me",
+    "autor": "Tahereh Mafi",
+    "genero": "Fantasia Romântica",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Estilha%C3%A7a-Me-Tahereh-Mafi/dp/8550303011"
+  }
+
+]
+
+  },
+ "detetive": {
+  "nome": "Detetive",
+  "livros": [
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51V0NhrvC3L._SY445_SX342_PQ80_.jpg",
+    "descricao": "Cinco estudantes do ensino médio entram na detenção, mas apenas quatro saem vivos. Um suspense cheio de reviravoltas, onde todos são suspeitos.",
+    "titulo": "Um de Nós Está Mentindo",
+    "autor": "Karen M. McManus",
+    "genero": "Suspense Juvenil",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Um-de-n%C3%B3s-est%C3%A1-mentindo/dp/B0CHSFXTMC"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41uVj58TGqL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Uma jovem empregada doméstica vê sua vida mudar após entrar para a casa de uma família influente, onde segredos obscuros começam a vir à tona.",
+    "titulo": "A Empregada",
+    "autor": "Freida McFadden",
+    "genero": "Thriller Psicológico",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/empregada-Bem-vinda-%C3%A0-fam%C3%ADlia/dp/6555655062"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/516lY+rtNOL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Anna Fox vive isolada e observa seus vizinhos pela janela. Quando uma família desaparece, ela precisa desvendar o mistério, mas pode estar correndo perigo.",
+    "titulo": "A Mulher na Janela",
+    "autor": "A. J. Finn",
+    "genero": "Suspense Psicológico",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/mulher-na-janela-J-Finn/dp/8580418321"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/413th2NQc8L._SY445_SX342_PQ80_.jpg",
+    "descricao": "A artista Alicia Berenson para de falar após cometer um crime chocante. Um terapeuta tenta descobrir a verdade por trás do silêncio dela.",
+    "titulo": "A Paciente Silenciosa",
+    "autor": "Alex Michaelides",
+    "genero": "Thriller Psicológico",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/paciente-silenciosa-Alex-Michaelides/dp/8501116432"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51gjPdeh3hL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Uma escritora aceita terminar a série de uma autora famosa, mas descobre segredos obscuros que podem mudar tudo.",
+    "titulo": "Verity",
+    "autor": "Colleen Hoover",
+    "genero": "Suspense Psicológico",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Verity-Colleen-Hoover/dp/8501117846"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41Ke1DL704L._SY445_SX342_PQ80_.jpg",
+    "descricao": "Uma jovem aprende a desvendar segredos mortais ao seguir um misterioso manual de assassinatos para boas meninas.",
+    "titulo": "Manual de Assassinatos para Boas Meninas",
+    "autor": "Holly Jackson",
+    "genero": "Thriller Juvenil",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Manual-Assassinato-Para-Boas-Garotas/dp/6555604905"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/6124tZpyxYL._SY385_.jpg",
+    "descricao": "Em uma família cheia de segredos e histórias sombrias, todos têm algo a esconder — até mesmo assassinatos antigos.",
+    "titulo": "Todo Mundo da Minha Família Já Matou Alguém",
+    "autor": "Benjamin Stevenson",
+    "genero": "Mistério Policial",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/mundo-minha-fam%C3%ADlia-matou-algu%C3%A9m/dp/6555606878"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41lBIn5CQhL._SY445_SX342_PQ80_.jpg",
+    "descricao": "O desaparecimento de Annie desencadeia uma investigação tensa, onde nada é o que parece e o perigo está em cada esquina.",
+    "titulo": "O Que Aconteceu com Annie",
+    "autor": "C. J. Tudor",
+    "genero": "Thriller Psicológico",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Que-Aconteceu-Com-Annie/dp/8551004751"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41xDq3pat9L._SY445_SX342_PQ80_.jpg",
+    "descricao": "Durante um jantar aparentemente comum, segredos e mentiras ameaçam explodir, mudando para sempre a vida dos presentes.",
+    "titulo": "Jantar Secreto",
+    "autor": "Raphael Montes",
+    "genero": "Suspense Nacional",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Jantar-Secreto-Raphael-Montes/dp/8501104552"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41Kzq1h5NOL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Quando Tricia e Ethan foram visitar a casa dos seus sonhos, eles não esperavam que os mistérios envolvendo o desaparecimento da antiga proprietária se tornariam seu maior pesadelo.",
+    "titulo": "Nunca Minta",
+    "autor": "Freida McFadden",
+    "genero": "Thriller Psicológico",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Nunca-minta-Freida-McFadden/dp/8501923281"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41upASGsAmL._SY445_SX342_PQ80_.jpg",
+    "descricao": "O casal que mora ao lado guarda segredos perigosos que podem destruir a vida de quem se aproximar demais.",
+    "titulo": "O Casal que Mora ao Lado",
+    "autor": "Shari Lapena",
+    "genero": "Suspense Psicológico",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/O-Casal-que-Mora-Lado/dp/8580418321"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41vfCimIBwL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Em busca de emprego, Brooke enfrenta dificuldades até conseguir uma vaga em uma prisão de segurança máxima – exatamente onde Shane está encarcerado.",
+    "titulo": "O Detento",
+    "autor": "Freida McFadden",
+    "genero": "Thriller Psicológico",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/detento-Freida-McFadden-ebook/dp/B0DJPZ3N6H"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51E+QvFSXWL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Cassie é uma jovem de dezessete anos que tem o talento natural de ler pessoas. Mas ela nunca levou muito a sério essa habilidade, pelo menos não até o FBI bater em sua porta com uma proposta.",
+    "titulo": "Academia dos Casos Arquivados",
+    "autor": "Jennifer Lynn Barnes",
+    "genero": "Suspense Juvenil",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Academia-casos-arquivados-Jennifer-Barnes/dp/6585348451"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/515AYGEWE-L._SY445_SX342_PQ80_.jpg",
+    "descricao": "Kate Reese está fugindo. Determinada a buscar uma vida melhor para ela e para o filho Christopher, ela abandona um relacionamento abusivo e escapa no meio da noite junto com seu garotinho.",
+    "titulo": "Amigo Imaginário",
+    "autor": "Stephen Chbosky",
+    "genero": "Terror Psicológico",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Amigo-imagin%C3%A1rio-Stephen-Chbosky/dp/8501118893"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/418UP8j9zuL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Um thriller sobre um sonho que torna-se pesadelo. Grace é a esposa perfeita. Ela abriu mão do emprego para se dedicar ao marido e à casa.",
+    "titulo": "Entre Quatro Paredes",
+    "autor": "B. A. Paris",
+    "genero": "Suspense Psicológico",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Entre-quatro-paredes-B-Paris/dp/8501109606"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/91AwP2ljndL._SY385_.jpg",
+    "descricao": "Alê e seus colegas, jovens da elite carioca encontrados mortos no porão do sítio de um deles em condições misteriosas.",
+    "titulo": "Suicidas",
+    "autor": "Raphael Montes",
+    "genero": "Suspense Nacional",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Suicidas-Raphael-Montes/dp/8535929444"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41IRIdIobtL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Em 1929, um crime bárbaro chocou o estado do Maine: a abastada família Hope foi brutalmente assassinada, restando apenas a filha mais velha, Lenora, que acabou se tornando a principal suspeita.",
+    "titulo": "O massacre da família Hope",
+    "autor": "Riley Sager",
+    "genero": "Suspense",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/massacre-fam%C3%ADlia-Hope-Riley-Sager-ebook/dp/B0D8QX7J6V"
+  },
+   {
+    "imagem": "https://m.media-amazon.com/images/I/41rXu1P4p7L._SY445_SX342_PQ80_.jpg",
+    "descricao": "Kate Marshall e seu sócio Tristan Harper são contratados para investigar um caso arquivado há doze anos.",
+    "titulo": "Quando a luz se apaga",
+    "autor": "Robert Bryndza",
+    "genero": "Suspense",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Quando-luz-apaga-Robert-Bryndza/dp/8582357265"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/91polrfYzCL._SY425_.jpg",
+    "descricao": "Em uma ilha afastada na costa da Irlanda, convidados se reúnem para celebrar uma união de dar inveja. Mas a perfeição só existe mesmo nos planos. E o perigo mora nos detalhes.",
+    "titulo": "A lista de convidados",
+    "autor": "Lucy Foley ",
+    "genero": "Suspense",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Lista-Convidados-Lucy-Foley/dp/6555601507"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/A1SUAcljvCL._SY425_.jpg",
+    "titulo": "Em Águas Sombrias",
+    "autor": "Paula Hawkins",
+    "genero": "Suspense psicológico",
+    "descricao": "Mistérios e segredos vêm à tona após a morte suspeita de uma mulher em um rio sombrio.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/dp/8501109940"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/715-TCHXB1L._SY425_.jpg",
+    "titulo": "Pedra Papel Tesoura",
+    "autor": "Alice Feeney ",
+    "genero": "Suspense psicológico",
+    "descricao": "Determinados a dar uma última chance ao casamento, eles decidem passar um fim de semana romântico em um lugar aconchegante, bucólico e nada comum. No entanto, o que seria um retiro de reencontro se transforma em uma tempestade de neve.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Pedra-Papel-Tesoura-Alice-Feeney/dp/6555983574"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/917coZCkBTL._SY385_.jpg",
+    "titulo": "Até o último de nós",
+    "autor": "Freida McFadden ",
+    "genero": "Suspense psicológico",
+    "descricao": "Claire Matchett vive uma grave crise no casamento e está se sentindo totalmente sobrecarregada pela criação dos dois filhos. Com a viagem de férias que se aproxima, ela vê uma chance de resgatar a cumplicidade com o marido e ter um respiro da rotina estressante. ",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/At%C3%A9-%C3%BAltimo-n%C3%B3s-Freida-McFadden/dp/6555657677"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/71lRPEiYRNL._SY466_.jpg",
+    "titulo": "O apartamento de Paris",
+    "autor": "Lucy Foley",
+    "genero": "Suspense psicológico",
+    "descricao": "Quando chega à cidade, Jess descobre que o irmão mora em um lugar que ela jamais imaginaria que ele teria condições de pagar. E o mais intrigante: embora a carteira e as chaves estejam ali, não há nenhum sinal do rapaz.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/apartamento-Paris-Lucy-Foley/dp/6555604514"
+  },
+    {
+    "imagem": "https://m.media-amazon.com/images/I/71bJYZfcrKL._SY425_.jpg",
+    "titulo": "Mentirosos",
+    "autor": "E. Lockhart ",
+    "genero": "Suspense",
+    "descricao": "Na família Sinclair, ninguém é carente, criminoso, viciado ou fracassado. Mas talvez isso seja mentira. Os Sinclair são uma família rica e renomada, que se recusa a admitir que está em decadência e se agarra a todo custo às tradições.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Mentirosos-Lockhart/dp/8565765482"
+  }
+  ]
+  },
+  "emocional": {
+  "nome": "Emocional",
+  "livros": [
+   {
+    "imagem": "https://m.media-amazon.com/images/I/51W04lRF-SL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Juliet Young sempre escreveu cartas para sua mãe. Mesmo depois da morte dela, continua escrevendo - e as deixa no cemitério.",
+    "titulo": "Aos Perdidos, Com Amor",
+    "autor": "Brigid Kemmerer",
+    "genero": "Romance dramático",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/perdidos-amor-Vergara-Riba-Editoras/dp/8592783356"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41wCsmQIOaL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Com excesso de erros no início do romance, os relatos de Charlie revelam sua condição limitada, consequência de uma grave deficiência intelectual, que ao menos o mantém protegido dentro de um “mundo” particular – indiferente às gozações dos colegas de trabalho e intocado por tragédias familiares.",
+    "titulo": "Flores Para Algernon",
+    "autor": "Daniel Keyes ",
+    "genero": "Romance dramático",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Flores-para-Algernon-Daniel-Keyes/dp/8576573938"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51i7kH+rh9L._SY445_SX342_PQ80_.jpg",
+    "descricao": "Em É assim que acaba, Colleen Hoover nos apresenta Lily, uma jovem que se mudou de uma cidadezinha do Maine para Boston, e é em um terraço que ela conhece Ryle.",
+    "titulo": "É Assim que Acaba",
+    "autor": "Colleen Hoover",
+    "genero": "Romance contemporâneo",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Assim-que-Acaba-Colleen-Hoover/dp/8501112518"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/4164jpw+6lL._SY445_SX342_PQ80_.jpg",
+    "titulo": "A Cinco Passos de Você",
+    "autor": "Rachael Lippincott",
+    "genero": "Romance juvenil",
+    "descricao": "Dois jovens com fibrose cística se apaixonam, mas precisam manter distância para sobreviver.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/dp/8525067423"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/4164h-1qDZL._SY445_SX342_PQ80_.jpg",
+    "titulo": "Como Eu Era Antes de Você",
+    "autor": "Jojo Moyes",
+    "genero": "Romance dramático",
+    "descricao": "Louisa começa a cuidar de Will, um tetraplégico cínico. Um amor improvável muda tudo.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/dp/8580573297"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51wuuLOdGdL._SY445_SX342_PQ80_.jpg",
+    "titulo": "Eleanor & Grey",
+    "autor": "Brittainy C. Cherry",
+    "genero": "Romance emocional",
+    "descricao": "Eles se conhecem na adolescência, se separam e se reencontram anos depois — mudados pela vida.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/dp/8501118257"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41XD1PMwLPL._SY445_SX342_PQ80_.jpg",
+    "titulo": "O Ódio que Você Semeia",
+    "autor": "Angie Thomas",
+    "genero": "Ficção social",
+    "descricao": "Após testemunhar um assassinato, Starr precisa decidir entre o silêncio e a luta por justiça.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/dp/8501110817"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51wdOrz6uNL._SY445_SX342_PQ80_.jpg",
+    "titulo": "O Sol é Para Todos",
+    "autor": "Harper Lee",
+    "genero": "Clássico literário",
+    "descricao": "Um clássico sobre justiça racial, inocência e compaixão no sul dos EUA dos anos 1930.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/dp/8503009498"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51G8xpW38iL._SY445_SX342_PQ80_.jpg",
+    "titulo": "O Tatuador de Auschwitz",
+    "autor": "Heather Morris",
+    "genero": "Romance histórico",
+    "descricao": "Baseado em uma história real de amor e sobrevivência no campo de concentração.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/dp/8542212932"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51McNQxbDgL._SY445_SX342_PQ80_.jpg",
+    "titulo": "Para Onde Ela Foi",
+    "autor": "Gayle Forman",
+    "genero": "Romance juvenil",
+    "descricao": "Adam e Mia se reencontram em Nova York, três anos após a separação que marcou suas vidas.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/dp/8581635679"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41J3d8GvFyL._SY445_SX342_PQ80_.jpg",
+    "titulo": "Para Sempre Alice",
+    "autor": "Lisa Genova",
+    "genero": "Drama médico",
+    "descricao": "Uma professora brilhante enfrenta o diagnóstico precoce de Alzheimer e a luta pela própria identidade.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Para-Sempre-Alice-Lisa-Genova/dp/8520940625"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/510HCDDGb3L._SY445_SX342_PQ80_.jpg",
+    "titulo": "Por Lugares Incríveis",
+    "autor": "Jennifer Niven",
+    "genero": "Romance jovem adulto",
+    "descricao": "Dois adolescentes se conhecem à beira do desespero e embarcam em uma jornada de descobertas.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Por-lugares-incr%C3%ADveis-Jennifer-Niven/dp/8565765571"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/415vjq1y+AL._SY445_SX342_PQ80_.jpg",
+    "titulo": "Sorrisos Quebrados",
+    "autor": "Sofia Silva",
+    "genero": "Romance dramático",
+    "descricao": "É na escuridão que brilha o amor verdadeiro. Paola: Perante Deus, meu marido prometeu me amar. Até que um dia ele me disse que me mataria.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Sorrisos-Quebrados-Sofia-Silva/dp/8558890455"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51is1KDs5zL._SY445_SX342_PQ80_.jpg",
+    "titulo": "Todas as Suas (Im)perfeições",
+    "autor": "Colleen Hoover",
+    "genero": "Romance emocional",
+    "descricao": "Um casal em crise revê sua história em busca de redenção e cura emocional.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Todas-as-suas-im-perfei%C3%A7%C3%B5es/dp/8501117684"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51qEYBcdZkL._SY445_SX342_PQ80_.jpg",
+    "titulo": "Tudo e Todas as Coisas",
+    "autor": "Nicola Yoon",
+    "genero": "Romance jovem adulto",
+    "descricao": "Maddy é alérgica ao mundo e vive isolada, até conhecer Olly — e arriscar tudo por amor.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Tudo-Todas-Coisas-Nicola-Yoon/dp/8581637884"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51fMZPtkW+L._SY445_SX342_PQ80_.jpg",
+    "titulo": "Uma Segunda Chance",
+    "autor": "Colleen Hoover",
+    "genero": "Romance contemporâneo",
+    "descricao": "Depois de passar cinco anos na prisão após um trágico acidente, Kenna Rowan retorna à cidade onde tudo deu errado, esperando poder viver ao lado da filha.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Uma-segunda-chance-Colleen-Hoover-ebook/dp/B09ZK6M2NN"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41B6dmnbL7S._SY445_SX342_PQ80_.jpg",
+    "titulo": "Uma Vida Pequena",
+    "autor": "Hanya Yanagihara",
+    "genero": "Romance literário",
+    "descricao": "Quatro amigos enfrentam o amor, o trauma e os desafios da vida adulta em Nova York.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Uma-vida-pequena-Hanya-Yanagihara/dp/8501071544"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51EQbncZl8L._SY445_SX342_PQ80_.jpg",
+    "titulo": "Um Caso Perdido",
+    "autor": "Colleen Hoover",
+    "genero": "Romance psicológico",
+    "descricao": "Sky conhece Holder, e juntos eles desvendam verdades dolorosas do passado dela.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Um-caso-perdido-Vol-Hopeless/dp/6559811050"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41rJfBLXMbL._SY445_SX342_PQ80_.jpg",
+    "titulo": "Um Lugar Bem Longe Daqui",
+    "autor": "Delia Owens",
+    "genero": "Drama com romance",
+    "descricao": "Kya, uma jovem isolada nos pântanos, enfrenta o preconceito e a solidão, até ser acusada de assassinato.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Um-Lugar-Bem-Longe-Daqui/dp/8551004867"
+  },
+   {
+    "imagem": "https://m.media-amazon.com/images/I/715zhDUgi3L._SY425_.jpg",
+    "titulo": "Todo esse tempo",
+    "autor": "Rachael Lippincott",
+    "genero": "Drama com romance",
+    "descricao": "Kyle e Kimberly são o casal perfeito. Pelo menos, é o que Kyle acha. Por isso, quando Kimberly termina com ele na noite da festa de formatura, o mundo inteiro do garoto vira de cabeça para baixo - literalmente.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Todo-esse-tempo-Rachael-Lippincott/dp/6588131089"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51ed1PiHMyL._SY425_.jpg",
+    "titulo": "O Último Adeus",
+    "autor": "Cynthia Hand",
+    "genero": "Drama e ficção",
+    "descricao": "Há apenas sete semanas, Tyler, seu irmão mais novo, cometeu suicídio, e ela não consegue mais se lembrar de como é se sentir feliz.",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/%C3%9Altimo-Adeus-Cynthia-Hand/dp/8594540027"
+  }
+
+
+  ]
+
+  },
+  "racional": {
+  "nome": "Racional",
+  "livros": [
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41IKTYiymKL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Em um futuro distópico onde a sociedade é rigidamente controlada por tecnologia, engenharia genética e condicionamento social, 'Admirável Mundo Novo' explora o custo da estabilidade e da felicidade artificial. Uma crítica profunda ao consumismo e à perda de identidade.",
+    "titulo": "Admirável Mundo Novo",
+    "autor": "Aldous Huxley",
+    "genero": "Ficção científica, Distopia",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Admir%C3%A1vel-mundo-Aldous-Leonard-Huxley/dp/8525056006"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41JH84F1wmL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Do mesmo autor de 'Perdido em Marte', esta ficção científica se passa na primeira cidade da Lua. Jazz Bashara, uma contrabandista astuta, se vê envolvida em uma conspiração que pode mudar o destino de Artemis para sempre. Mistura de ação, ciência e intriga política.",
+    "titulo": "Artemis",
+    "autor": "Andy Weir",
+    "genero": "Ficção científica",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Artemis-Andy-Weir/dp/8580419190"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41Nd9+OudDL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Num futuro distópico e ameaçador, uma jovem vai desafiar as regras do sistema patriarcal... As fronteiras de Huaxia são defendidas por máquinas de guerra gigantescas movidas pela energia vital de um piloto e da sua concubina.",
+    "titulo": "A Viúva de Ferro",
+    "autor": "Xiran Jay Zhao",
+    "genero": "Ficção científica, Distopia, Feminismo",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Vi%C3%BAva-Ferro-Xiran-Jay-Zhao/dp/6555605316"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41p4DHosvDL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Em um mundo assolado por entidades que levam ao suicídio com um simples olhar, uma mãe tenta proteger seus filhos em uma jornada tensa e claustrofóbica. Suspense psicológico que mantém o leitor em alerta do início ao fim.",
+    "titulo": "Caixa de Pássaros",
+    "autor": "Josh Malerman",
+    "genero": "Terror, Suspense, Ficção apocalíptica",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Caixa-P%C3%A1ssaros-Josh-Malerman/dp/8580576520"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41fLZaY+7EL._SX342_SY445_PQ80_.jpg",
+    "descricao": "Uma releitura futurista de Cinderela, onde a protagonista é uma ciborgue mecânica e mecânica habilidosa. Em meio a conflitos políticos e uma praga mortal, ela descobre um segredo que pode mudar o mundo. Começo da série Crônicas Lunares.",
+    "titulo": "Cinder",
+    "autor": "Marissa Meyer",
+    "genero": "Ficção científica, Fantasia, Young Adult",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Cinder-1-Cole%C3%A7%C3%A3o-Cr%C3%B4nicas-Lunares/dp/8579801524"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51X40Du9otL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Situado numa teocracia totalitária, 'O Conto da Aia' é um retrato perturbador do controle sobre o corpo feminino. Offred, uma das poucas mulheres férteis restantes, é forçada a viver como serva reprodutiva. Um clássico distópico impactante e atemporal.",
+    "titulo": "O Conto da Aia",
+    "autor": "Margaret Atwood",
+    "genero": "Distopia, Ficção especulativa, Feminismo",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Conto-Aia-Margaret-Atwood/dp/8532520669"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51IrIID4grL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Em um planeta onde a violência e a vingança imperam, em uma galáxia onde alguns são afortunados, todos desenvolvem habilidades especiais – o dom-da-corrente – um poder único para moldar o futuro. Enquanto a maioria se beneficia desses dons, Akos e Cyra não.",
+    "titulo": "Crave a Marca",
+    "autor": "Veronica Roth",
+    "genero": "Ficção científica, Fantasia, Young Adult",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Crave-Marca-Veronica-Roth/dp/8579803284"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41ZgkNhPfDL._SY445_SX342_PQ80_.jpg",
+    "descricao": "O jovem Paul Atreides precisa sobreviver em Arrakis, um planeta desértico onde se produz a especiaria mais valiosa do universo. Intrigas políticas, ecologia e misticismo se entrelaçam nesta obra-prima da ficção científica.",
+    "titulo": "Duna",
+    "autor": "Frank Herbert",
+    "genero": "Ficção científica, Space opera",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Duna-Frank-Herbert/dp/857657313X"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41uH8zurEeL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Nesta coletânea de contos, Isaac Asimov explora as Três Leis da Robótica em histórias que colocam máquinas em dilemas éticos profundos. Uma obra essencial para refletir sobre inteligência artificial e humanidade.",
+    "titulo": "Eu, Robô",
+    "autor": "Isaac Asimov",
+    "genero": "Ficção científica, Contos",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Eu-Robo-Isaac-Asimov/dp/8576572001"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41PVVpQf-sL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Em um futuro onde livros são proibidos e queimados, um bombeiro começa a questionar seu papel e a sociedade que o cerca. Uma crítica à censura e ao conformismo, tão relevante quanto no dia em que foi escrito.",
+    "titulo": "Fahrenheit 451",
+    "autor": "Ray Bradbury",
+    "genero": "Distopia, Ficção científica",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Fahrenheit-451-Ray-Bradbury/dp/8525052248"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51MNXxYF1xL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Em um futuro decadente, a maioria da população vive dentro de um mundo virtual chamado OASIS. Quando o criador morre e deixa um enigma milionário, começa uma corrida entre jogadores e corporações. Um tributo à cultura pop e à tecnologia.",
+    "titulo": "Jogador Nº 1",
+    "autor": "Ernest Cline",
+    "genero": "Ficção científica, Distopia, Cultura pop",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Jogador-N%C3%BAmero-1-Ernest-Cline/dp/8544103162"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/71tBn3e4OAL._SY385_.jpg",
+    "descricao": "Jason Dessen é abduzido por uma versão alternativa de si mesmo e mergulha em uma busca desesperada para voltar à sua realidade. Um thriller de ficção científica sobre identidade, escolhas e mundos paralelos.",
+    "titulo": "Matéria Escura",
+    "autor": "Blake Crouch",
+    "genero": "Ficção científica, Thriller",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Mat%C3%A9ria-Escura-Blake-Crouch/dp/8551001221"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51UqHWh58-L._SY445_SX342_PQ80_.jpg",
+    "descricao": "Sem memória, Thomas acorda em um lugar cercado por um labirinto mortal. Com outros jovens, precisa desvendar os segredos de sua prisão e do mundo exterior. Uma distopia cheia de ação e mistério.",
+    "titulo": "Maze Runner: Correr ou Morrer",
+    "autor": "James Dashner",
+    "genero": "Distopia, Ação, Jovem adulto",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Runner-Correr-Morrer-James-Dashner/dp/857683247X"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51TMmMNtZiL._SY445_SX342_PQ80_.jpg",
+    "descricao": "No submundo cibernético de um futuro distópico, um hacker é contratado para executar o maior golpe digital da história. Obra que definiu o gênero cyberpunk, antecipando temas como inteligência artificial e realidade virtual.",
+    "titulo": "Neuromancer",
+    "autor": "William Gibson",
+    "genero": "Cyberpunk, Ficção científica",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Neuromancer-William-Gibson/dp/8576573008"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/41ChLRWRMCS._SY445_SX342_PQ80_.jpg",
+    "descricao": "Num futuro onde a morte natural foi erradicada, os Ceifadores controlam quem morre. Citra e Rowan são treinados contra sua vontade. Uma história provocativa sobre moralidade, controle e vida eterna.",
+    "titulo": "O Ceifador",
+    "autor": "Neal Shusterman",
+    "genero": "Distopia, Ficção científica, Young Adult",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/ceifador-Neal-Shusterman/dp/8555340357"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51VzMD5xdWL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Uma ficção nacional que mistura fantasia e filosofia, retratando um universo onde a busca pelo conhecimento é literalmente uma jornada por mundos ocultos. Ideal para leitores que apreciam narrativas reflexivas.",
+    "titulo": "O Mundo Superior",
+    "autor": "Femi Fadugba",
+    "genero": "Ficção científica, Filosofia, Fantasia",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Mundo-Superior-1-Femi-Fadugba/dp/6588131852"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51tKyWgUD+L._SY445_SX342_PQ80_.jpg",
+    "descricao": "Um épico de sobrevivência em um planeta desconhecido, com ecos de história humana e evolução. 'O Último Ancestral' leva o leitor a refletir sobre origens e futuro da humanidade.",
+    "titulo": "O Último Ancestral",
+    "autor": "Ale Santos",
+    "genero": "Ficção científica, Ficção histórica, Aventura",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/%C3%BAltimo-ancestral-Ale-Santos-ebook/dp/B09JXW57Y9"
+  },
+  {
+    "imagem": "https://m.media-amazon.com/images/I/51+vo2YzqBL._SY445_SX342_PQ80_.jpg",
+    "descricao": "Dois amigos se tornam inimigos mortais após adquirirem poderes sobrenaturais. Uma história sombria sobre ambição, moralidade e o que significa ser herói ou vilão. Para fãs de anti-heróis e dilemas éticos.",
+    "titulo": "Vilão",
+    "autor": "V. E. Schwab",
+    "genero": "Fantasia sombria, Ficção científica",
+    "outraImagem": "./imgbooks/Amazon.png",
+    "link": "https://www.amazon.com.br/Vil%C3%A3o-V-Schwab/dp/8501113727"
+  }
+  ]
+}
+}
